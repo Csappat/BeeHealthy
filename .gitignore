@@ -1,0 +1,7 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+env GIT_SSL_NO_VERIFY=true
